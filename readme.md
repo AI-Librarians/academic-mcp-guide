@@ -1,5 +1,5 @@
 # Academic MCP Guide and Directory
-A curated directory of Model Context Protocol (MCP) servers relevant to academic libraries, research, and higher education. Maintained by the AI Librarians CoP, a cross-institutional community of practice for AI practitioners in libraries. 
+A curated directory of MCP servers relevant to academic libraries, research, and higher education. Maintained by the AI Practitioners in Libraries Community of Practice. 
 
 Potential use case: fork and further personalize to fit our specific institutions
 

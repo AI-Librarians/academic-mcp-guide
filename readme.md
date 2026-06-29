@@ -15,7 +15,7 @@ Before MCP, connecting an AI application to external data sources required custo
 
 **MCP Client** : the component within an AI application that initiates communication with MCP servers. It sends requests for data or tool use and processes the responses returned by the server.  
 
-** Host** : the AI application or environment in which the MCP client runs. Examples include Claude Desktop, an IDE plugin, or a custom AI assistant. The host manages the client's connections to MCP servers.  
+**Host** : the AI application or environment in which the MCP client runs. Examples include Claude Desktop, an IDE plugin, or a custom AI assistant. The host manages the client's connections to MCP servers.  
 
 ##MCP vs RAG 
 

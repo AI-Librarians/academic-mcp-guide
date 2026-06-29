@@ -3,6 +3,14 @@ A curated directory of MCP servers relevant to academic libraries, research, and
 
 Potential use case: fork and further personalize to fit our specific institutions
 
+## Table of Contents
+
+- [What is MCP?](#what-is-mcp)
+- [MCP vs RAG](#mcp-vs-rag)
+- [Getting Started](#getting-started-with-mcp)
+- [Server Directory](#working-directory-of-academic-mcp-servers)
+- [How to Evaluate Servers](#how-to-evaluate-servers)
+
 # What is MCP?  
 
 Model Context Protocol (MCP) is an open-source standard developed by Anthropic that facilitates the connection between AI applications and external data sources, tools, and systems. 
@@ -13,11 +21,11 @@ Before MCP, connecting an AI application to external data sources required custo
 ## Key Terms 
 **MCP Server**: a program that exposes data, tools, or capabilities to AI applications via the MCP standard. It acts as a bridge between the AI and an external system, such as a database or third-party service. It responds to requests from MCP clients and returns relevant context or results. 
 
-**MCP Client** : the component within an AI application that initiates communication with MCP servers. It sends requests for data or tool use and processes the responses returned by the server.  
+**MCP Client**: the component within an AI application that initiates communication with MCP servers. It sends requests for data or tool use and processes the responses returned by the server.  
 
-**Host** : the AI application or environment in which the MCP client runs. Examples include Claude Desktop, an IDE plugin, or a custom AI assistant. The host manages the client's connections to MCP servers.  
+**Host**: the AI application or environment in which the MCP client runs. Examples include Claude Desktop, an IDE plugin, or a custom AI assistant. The host manages the client's connections to MCP servers.  
 
-##MCP vs RAG 
+## MCP vs RAG 
 
 Another common approach to connecting AI with external information is Retrieval-Augmented Generation, or RAG. Both RAG and MCP helps with LMs' currency of knowledge and allow AI applications or models to draw on outside sources rather than relying solely on what the model learned during training. They differ in how that outside information is managed. 
 
@@ -29,6 +37,11 @@ MCP goes beyond RAG to offer dynamic, real-time access to data, whereas RAG typi
  
 # Getting Started with MCP
 
+## Tutorials 
+Tutorials 
+
+- [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/) 
+
 The [official MCP GitHub organization](https://github.com/modelcontextprotocol) is maintained by Anthropic and is the home of the protocol specification, SDKs, and [reference implementations of MCP servers](https://github.com/modelcontextprotocol/servers).  
 
 The official MCP Registry can be found at [registry.modelcontextprotocol.io/](https://registry.modelcontextprotocol.io/). Not that this is community-contributed includes details of their authentication methods. 
@@ -38,21 +51,16 @@ Other such directories can be found online, such as:
 - https://mcpservers.org/ 
 - https://mcpmarket.com/ 
 
- 
-
-As with any open-source project, community-contributed MCP servers vary in quality and maintenance. Because MCP servers can act on your behalf by reading files, making requests to external sources, and accessing data, users should carefully evaluate any server before connecting it to institutional systems or sensitive data. It is considered good practice to check who maintains the server and what permissions it requires before use. Indicators of an active, trustworthy server include the number of GitHub stars (a measure of community endorsement) and its commit history (a record of how recently and frequently the code has been updated). 
-
-## Tutorials 
-Tutorials 
-
-- [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/) 
-
 # Working Directory of Academic MCP Servers 
 
 ## MCP Server Directory
 
-| Server | Data Source | Developer | Access | Link |
-|--------|-------------|-----------|--------|------|
-| [Wiley Scholar Gateway](https://www.wiley.com/en-us/research/scholar-gateway-connect-claude-mistral-ai/) | Wiley journal content | Wiley | Free Trial | [Link]() |
-| [Elsevier Scopus](https://github.com/qwe4559999/scopus-mcp) | Elsevier Scopus API | Community | Institutional/API key | [Link]() |
-| [arXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv publications | Community | Free | [Link]() |
+| Server | Data Source | Developer | Access |
+|--------|-------------|-----------|--------|
+| [Wiley Scholar Gateway (pilot version)](https://www.wiley.com/en-us/research/scholar-gateway-connect-claude-mistral-ai/) | Subset of the Wiley portfolio, excluding content published after September 2025 | Wiley | Free Trial | 
+| [Elsevier Scopus](https://github.com/qwe4559999/scopus-mcp) | Elsevier Scopus API | Community | Institutional/API key | 
+| [arXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv's repository | Community | Free | 
+
+## How to Evaluate Servers
+
+As with any open-source project, community-contributed MCP servers vary in quality and maintenance. Because MCP servers can act on your behalf by reading files, making requests to external sources, and accessing data, users should carefully evaluate any server before connecting it to institutional systems or sensitive data. It is considered good practice to check who maintains the server and what permissions it requires before use. Indicators of an active, trustworthy server include the number of GitHub stars (a measure of community endorsement) and its commit history (a record of how recently and frequently the code has been updated). 

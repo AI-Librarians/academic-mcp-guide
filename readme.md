@@ -1,8 +1,6 @@
 # Academic MCP Guide and Directory
 A curated directory of MCP servers relevant to academic libraries, research, and higher education. Maintained by the AI Practitioners in Libraries Community of Practice. 
 
-Potential use case: fork and further personalize to fit our specific institutions
-
 ## Table of Contents
 
 - [What is MCP?](#what-is-mcp)
@@ -37,14 +35,15 @@ MCP goes beyond RAG to offer dynamic, real-time access to data, whereas RAG typi
  
 # Getting Started with MCP
 
-## Tutorials 
-Tutorials 
+## Tutorials  
 
 - [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/) 
 
 The [official MCP GitHub organization](https://github.com/modelcontextprotocol) is maintained by Anthropic and is the home of the protocol specification, SDKs, and [reference implementations of MCP servers](https://github.com/modelcontextprotocol/servers).  
 
-The official MCP Registry can be found at [registry.modelcontextprotocol.io/](https://registry.modelcontextprotocol.io/). Not that this is community-contributed includes details of their authentication methods. 
+## Registries and Directories
+
+The official MCP Registry can be found at [registry.modelcontextprotocol.io/](https://registry.modelcontextprotocol.io/). Note that this is community-contributed includes details of their authentication methods. 
 
 Other such directories can be found online, such as:  
 

@@ -56,7 +56,8 @@ Other such directories can be found online, such as:
 |--------|-------------|-----------|--------|
 | [Wiley Scholar Gateway (pilot version)](https://www.wiley.com/en-us/research/scholar-gateway-connect-claude-mistral-ai/) | Subset of the Wiley portfolio, excluding content published after September 2025 | Wiley | Free Trial | 
 | [Elsevier Scopus](https://github.com/qwe4559999/scopus-mcp) | Elsevier Scopus API | Community | Institutional/API key | 
-| [arXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv's repository | Community | Free | 
+| [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv's repository | Community | Free | 
+| [Google Scholar](https://github.com/JackKuo666/Google-Scholar-MCP-Server) | Google Scholar papers | Community | Free |
 
 ### How to Evaluate Servers
 

@@ -3,11 +3,11 @@ A curated directory of MCP servers relevant to academic libraries, research, and
 
 ## Table of Contents
 
-- [What is MCP?](##what-is-mcp)
-- [MCP vs RAG](###mcp-vs-ragmcp-vs-rag)
-- [Getting Started](##getting-started-with-mcp)
+- [What is MCP?](#what-is-mcp)
+- [MCP vs RAG](#mcp-vs-ragmcp-vs-rag)
+- [Getting Started](#getting-started-with-mcp)
 - [Academic MCP Server Directory](#academic-mcp-server-directory)
-- [How to Evaluate Servers](###how-to-evaluate-servers)
+- [How to Evaluate Servers](#how-to-evaluate-servers)
 
 ## What is MCP?  
 

@@ -6,7 +6,7 @@ A curated directory of MCP servers relevant to academic libraries, research, and
 - [What is MCP?](#what-is-mcp)
 - [MCP vs RAG](#mcp-vs-rag)
 - [Getting Started](#getting-started-with-mcp)
-- [Academic MCP Server Directory](#academic-mcp-server-directory)
+- [Academic MCP Server Directory](#academic-mcp-servers)
 - [How to Evaluate Servers](#how-to-evaluate-servers)
 
 ## What is MCP?  
@@ -50,7 +50,7 @@ Other such directories can be found online, such as:
 - https://mcpservers.org/ 
 - https://mcpmarket.com/ 
 
-## Academic MCP Server Directory
+## Academic MCP Servers
 
 | Server | Data Source | Developer | Access |
 |--------|-------------|-----------|--------|

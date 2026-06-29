@@ -46,3 +46,13 @@ As with any open-source project, community-contributed MCP servers vary in quali
 Tutorials 
 
 - [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/) 
+
+# Working Directory of Academic MCP Servers 
+
+## MCP Server Directory
+
+| Server | Data Source | Developer | Access | Link |
+|--------|-------------|-----------|--------|------|
+| [Wiley Scholar Gateway](https://www.wiley.com/en-us/research/scholar-gateway-connect-claude-mistral-ai/) | Wiley journal content | Wiley | Free Trial | [Link]() |
+| [Elsevier Scopus](https://github.com/qwe4559999/scopus-mcp) | Elsevier Scopus API | Community | Institutional/API key | [Link]() |
+| [arXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv publications | Community | Free | [Link]() |

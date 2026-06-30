@@ -40,10 +40,11 @@ MCP goes beyond RAG to offer dynamic, real-time access to data, whereas RAG typi
 ### Tutorials  
 
 - [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/) 
+- [Introduction to Model Context Protocol by Anthropic via LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-model-context-protocol-by-anthropic)
+
+### Documentation and Directories
 
 The [official MCP GitHub organization](https://github.com/modelcontextprotocol) is maintained by Anthropic and is the home of the protocol specification, SDKs, and [reference implementations of MCP servers](https://github.com/modelcontextprotocol/servers).  
-
-### Registries and Directories
 
 The official MCP Registry can be found at [registry.modelcontextprotocol.io/](https://registry.modelcontextprotocol.io/). Note that this is community-contributed includes details of their authentication methods. 
 

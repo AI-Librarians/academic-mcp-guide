@@ -4,7 +4,8 @@
 
 Open an issue, submit a pull request, or email loisw@uchicago.edu with the following information:
 
-- **Server name** and link (GitHub repo or documentation) 
+- **Server name**
+- **Link** to the server's GitHub repo or documentation 
 - **Data source** (what content or system it connects to)
 - **Developer** (publisher, institution, or community-maintained)
 - **Access** (free, API key required, institutional subscription, etc.)

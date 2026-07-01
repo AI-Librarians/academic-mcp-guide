@@ -1,10 +1,10 @@
 # Contributing to the Academic MCP Guide and Directory
 
-## How to Suggest a New Server
+## How to Suggest a New Server 
 
-Open an issue or submit a pull request with the following information:
+Open an issue, submit a pull request, or email loisw@uchicago.edu with the following information:
 
-- **Server name** and link
+- **Server name** and link (GitHub repo or documentation) 
 - **Data source** (what content or system it connects to)
 - **Developer** (publisher, institution, or community-maintained)
 - **Access** (free, API key required, institutional subscription, etc.)
@@ -21,9 +21,9 @@ To be listed in the directory, a server should:
 
 If a listed server is no longer maintained or its link is broken, please open an issue so we can update or remove it.
 
-## Questions
+## Questions or other recommendations 
 
-Open an issue or email loisw@uchicago.edu 
+Open an issue, pull request, or email loisw@uchicago.edu 
 
 ## Reuse and Attribution
 

@@ -66,6 +66,7 @@ Other such directories can be found online, such as:
 | [Google Scholar](https://github.com/JackKuo666/Google-Scholar-MCP-Server) | Google Scholar papers | Community | Free |
 | [PubMed](https://claude.com/resources/tutorials/using-the-pubmed-connector-in-claude) | PubMed articles and clinical studies | U.S. National Library of Medicine | Free | 
 | [Northwestern University Libraries Digital Collections](https://github.com/nulib/dc-api-v2/tree/deploy/staging/mcp) | Northwestern University Libraries Digital Collections | Northwestern University Libraries | Free |
+| [Machine Library](https://github.com/SpaceFrontiers/mcp) | Documents: papers, books, patents, standards, Wikipedia, and YouTube transcripts; social: Reddit, Telegram, and Discord | Space Frontiers Company | Paid usage; OAuth or API key |
 
 ### How to Evaluate Servers
 
